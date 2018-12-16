@@ -6,3 +6,6 @@ Some content
 
 * This is heading 2
 Some other content
+
+* This is heading 3
+This is new feature
